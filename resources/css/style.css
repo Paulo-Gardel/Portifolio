@@ -22,11 +22,11 @@ body {
 }
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 5rem;
 }
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -39,24 +39,23 @@ body {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    gap: 40px;
+    gap: 2.5rem;
 }
 .apresentacao__conteudo {
-    width: 615px;
+    width: 38.5rem;
     display: flex;
     flex-direction: column;
-    gap: 40px;
-    
+    gap: 2.5rem;    
 }
 .apresentacao__conteudo__titulo {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
 .destaque-titulo {
     color: var(--cor-terciaria);
 }
 .apresentacao__conteudo__texto {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
 .destaque-eu {
@@ -67,24 +66,24 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    gap: 32px;
+    gap: 2rem;
 }
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao__links__link {    
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 1rem;
     border: 2px solid var(--cor-terciaria);
-    width: 378px;
+    width: 24rem;
     text-align: center;
-    border-radius: 8px;
-    font-size: 24px;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 1.5rem 0;
     text-decoration: none;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
@@ -93,32 +92,32 @@ body {
     background-color: #272727;
 }
 .bloco__imagem{
-    width: 488px;
-    height: 550px;
+    width: 30.5rem;
+    height: 34.5rem;
     position: relative;
     overflow: visible;
 }
 .imagem{
-    border-radius: 16px;
+    border-radius: 1rem;
     border:var(--cor-primaria) solid 2px;
     position: relative;
 }
 .moldura{
     width: 100%;
     height: 100%;
-    border-radius: 16px;
+    border-radius: 1rem;
     border: var(--cor-terciaria) solid 2px;
     position: absolute;
-    top: -32px;
-    left: 32px;
+    top: -2rem;
+    left: 2rem;
     z-index: -1;
 }
 .rodape{
-    padding: 24px;
+    padding: 1.5rem;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
