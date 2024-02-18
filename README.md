@@ -1,6 +1,6 @@
 
-# Projeto Apresentação
+# Portifolio
 
-Estudos em CSS , paiR programming, organização de pastas de recursos/ativos
+Extendendo o projeto "Apresentacao" para um portifolio.
 
 ![Alt text](resources/img/apresentacao.png)
