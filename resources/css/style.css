@@ -122,6 +122,8 @@ body {
 .formacao__certificados {
     display: flex;
     flex-direction: column;
+    gap: 1.5rem;
+
 }
 .diploma {
     display: flex;
@@ -192,10 +194,14 @@ body {
     }
     .apresentacao2 {
         flex-direction: column;
+        padding: 5% 10%;
     }
     .apresentacao__conteudo {
         width: auto;
-    }   
+    }
+    .formacao {
+        padding: 0 0 0 20%;                
+    }    
     .diploma {
         width: 15rem;
     }
