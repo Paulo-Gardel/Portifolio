@@ -1,6 +1,6 @@
 
 # Portifolio
 
-Extendendo o projeto "Apresentacao" para um portifolio.
+Challenge Portifolio. 
 
 ![Alt text](resources/img/apresentacao.png)
