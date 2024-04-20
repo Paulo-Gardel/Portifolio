@@ -123,6 +123,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    list-style: none;
 
 }
 .diploma {
